@@ -10,7 +10,7 @@ BST::BST()
 
 BST::~BST()
 {
-    //dtor
+    //dtor thakltklasdhflas
 }
 bool BST::InsertNode(Node* n){
     Node *p=this->root;
